@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Eu sou o tryber e como muito bife
 DIR=$1
 
 if [ -d "$DIR" ]
