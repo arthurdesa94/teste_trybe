@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Vou ter muito sucesso
 DIR=$1
 
 if [ -d "$DIR" ]
